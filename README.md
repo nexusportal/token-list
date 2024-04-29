@@ -6,7 +6,7 @@ Welcome to the Nexus token list repository! If you're looking to add your token 
 
 - A GitHub account.
 - Your token logo in PNG or SVG format, with a size of at least 250x250 pixels.
--Some social engangement.
+- Some social engangement.
 
 ## Step-by-Step Guide 🛠️
 
